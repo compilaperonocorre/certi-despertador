@@ -33,7 +33,7 @@
 ## 🐳 Instalación Rápida (Docker)
 ```bash
 # 1. Clona y configura
-git clone https://github.com/<tu-usuario>/certi-despertador.git
+git clone https://github.com/compilaperonocorre/certi-despertador.git
 cd certi-despertador
 cp .env.example .env
 docker compose up -d --build
@@ -47,14 +47,6 @@ alias cdi="docker compose exec web /app/cli/certi-despertador"
 # Ejemplo: cdi alert --days 7 --format json
 ```
 
-## 📜 Próximos Pasos
-1. `git init` + push a GitHub
-2. Configurar SMTP/SendGrid en `.env`
-3. Definir thresholds de alerta por equipo
-4. Importar primeros `.pem` desde infraestructura crítica
-
-## 🤝 Contribuir
-Pull requests, issues y discusiones son bienvenidas. Sigue la convención [Conventional Commits](https://www.conventionalcommits.org/).
 
 ## 📄 Licencia
 MIT
