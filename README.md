@@ -36,6 +36,7 @@ SMTP_PORT=587
 SMTP_USER=<tu_email>
 SMTP_PASS=<tu_app_password>
 ALERT_THRESHOLD_DAYS=30,15,7,3,1
+```
 
 ## 🛡️ Seguridad y Privacidad
 - ✅ Solo procesa certificados **públicos** (`.pub`, `.cer`, `.crt`).
@@ -48,4 +49,4 @@ Este proyecto se distribuye bajo la [Licencia MIT](LICENSE).
 
 ---
 *Desarrollado con ❤️ para simplificar la gobernanza de PKI en entornos modernos.*
-```
+
