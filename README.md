@@ -2,7 +2,7 @@
 > Plataforma open-source para inventario, monitoreo y alertas proactivas de certificados X.509. Nunca más un `CERT_EXPIRED` en producción.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Docker](https://img.shields.io/badge/Docker-ready-blue)]()
+
 
 ## 📦 ¿Qué es?
 `certi-despertador` es un sistema integral de gestión del ciclo de vida de certificados que permite **inventariar, validar y monitorear** certificados X.509 públicos en tiempo real [1]. Su enfoque principal es la visibilidad operativa y la prevención de caducidades, garantizando que nunca se almacenen claves privadas [1].
